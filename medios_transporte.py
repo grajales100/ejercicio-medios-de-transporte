@@ -1,2 +1,2 @@
-class mediosTransporte:
+class MediosTransporte:
     pass
