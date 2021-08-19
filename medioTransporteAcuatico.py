@@ -1,4 +1,4 @@
-from mediosTransporte import MediosTransporte
+from medios_transporte import MediosTransporte
 
 class MediosTransporteAcuatico(MediosTransporte):
     
